@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define CACHE_SIZE 4
+#define CACHE_SIZE 100
 
 typedef struct cacheValue {
     int rodLength;
